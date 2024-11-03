@@ -2,9 +2,9 @@
 
 This is a key factor to consider when addressing registration, as this way users will only get the best experience possible.
 
-An excellent example is a **<a href="https://jvcodes.com/multi-step-registration-form-with-progress-bar/">Multi-Step Registration Form with Progress Bar</a>** for submitting required information, where the information is broken down into different steps. This provides users with a clear direction of what they’re doing.
+An excellent example is a **<a href="https://jvcodes.com/multi-step-registration-form-with-progress-bar/">Multi-Step Registration Form with Progress Bar</a>** for submitting required information, where the information is broken down into different steps. It helps users with a sort of direction of what they’re doing.
 
-In this article, I will guide you through the process of creating a registration form with a progress bar using HTML, CSS, and JavaScript. Moreover, free source code is included for your convenience to enable easy implementation!
+In this article I will guide you through the process of creating a registration form with a progress bar that is using HTML, CSS, and JavaScript. Moreover, I will include free source code given for your convenience to enable you implement code easily!
 
 ## Features
 
